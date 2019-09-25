@@ -1,0 +1,20 @@
+{
+  "short_name": "Svelte APP",
+  "name": "Svelte APP",
+  "icons": [
+    {
+      "src": "icon144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "icon310x310.png",
+      "type": "image/png",
+      "sizes": "310x310"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#2196F3",
+  "background_color": "#2196F3"
+}
